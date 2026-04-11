@@ -73,11 +73,12 @@ void leerImprimirTexto(char delimitador) {
         c = cin.get();
         if (c == delimitador)break;
         if (c == '/' or c == '-') c = ' ';
-        if (c >= 'a' and c <= 'z') c -= 'a' - 'A';
+        if (c >= 'a' and c <= 'z') c -= 'a' - 'A';// 'a' - 'A' viene de la tabla ASCII, para cambiar el caracter a mayúscula. 
+      //En la tabla ASCII la distancia entre la misma letra en minúscula y mayúscula es la misma, por eso sirve esta resta.
         cout.put(c);
         numCar++;
     }
-    numBlancos = 42 - numCar;
+    numBlancos = 42 - numCar;//le da formato a un espacio determinado para calzar el nombre
     for (int i = 0; i < numBlancos; i++)cout.put(' ');
 }
 
