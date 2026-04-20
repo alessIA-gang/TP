@@ -1,0 +1,653 @@
+                                                                                                  MINISTERIO DE TRANSPORTE
+                                                                                             MULTAS IMPUESTAS A LAS COMPAÃ‘IAS
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 1
+REPRESENTANTE LEGAL: Contreras Chang Johana Cinthia     DNI: 79672079
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 599629P    PEQUEÃ‘O     12/12/2023      2036      GRAVE         391.76   Remolcar vehículos sin las medidas de seguridad.
+- 852620M    MEDIANO     23/01/2024      2029      GRAVE         369.96   No llevar puesto el cinturón de seguridad y O permitir que los ocupantes del vehículo no lo utilicen.
+- 282128P    PEQUEÃ‘O     12/11/2023      2067      GRAVE         429.89   No ceder el paso a otros vehículos que tienen preferencia.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      3           1191.61
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   3           1191.61
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 2
+REPRESENTANTE LEGAL: Farfan Salazar Margot     DNI: 77763722
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 482255P    PEQUEÃ‘O     30/09/2023      3003      LEVE          197.91   Abrir o dejar abierta la puerta de un vehículo estacionado, dificultando la circulación vehicular.
+- 277299M    MEDIANO     10/05/2024      2005      GRAVE         414.66   No mantener una distancia suficiente, razonable y prudente, de acuerdo al tipo de vehículo y la vía por la que se conduce.
+- 163421P    PEQUEÃ‘O     06/03/2025      2011      GRAVE         446.98   Circular, estacionar o detenerse sobre una isla de encauzamientoo divisoria del tránsito, bermas, aceras, pasos peatonales o rampas para minusválidos.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            197.91
+FALTAS GRAVES     :      2            861.64
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   3           1059.55
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 3
+REPRESENTANTE LEGAL: Vega Soria Henrry     DNI: 19568447
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 907605M    MEDIANO     02/11/2024      2010      GRAVE         411.19   Incumplir las disposiciones sobre el uso de las vías de tránsito rápido y O de acceso restringido.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            411.19
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   1            411.19
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 4
+REPRESENTANTE LEGAL: Epiquen Avila Enrique     DNI: 81528434
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 832314M    MEDIANO     16/06/2023      2021      GRAVE         404.64   Conducir un vehículo que no cuenta con las luces o dispositivos retrorreflectivos previstos en los reglamentos pertinentes
+- 650450G    GRANDE      19/04/2024      2054      GRAVE         396.09   Estacionar un vehículo en vías con pendientes pronunciadas sin asegurar su inmovilización.
+- 837854M    MEDIANO     08/02/2023      1033      MUY GRAVE     624.62   Usar las placas de exhibición, rotativa o transitoria fuera del plazo, horario o ruta establecida o cuando esta ha caducado o ha sido invalidada.
+- 325587P    PEQUEÃ‘O     20/02/2025      2065      GRAVE         378.40   Utilizar señales audibles o visibles iguales o similares a las que utilizan los vehículos de emergencia o vehículos oficiales.
+- 377489G    GRANDE      26/11/2024      2068      GRAVE         391.39   Seguir a los vehículos de emergencia y vehículos oficiales para avanzar más rápidamente.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      4           1570.52
+FALTAS MUY GRAVES :      1            624.62
+----------------------------------------------------------------------
+TOTAL:                   5           2195.14
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 5
+REPRESENTANTE LEGAL: Vilca Lee Nestor Hugo     DNI: 47844324
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 618120P    PEQUEÃ‘O     17/03/2025      2042      GRAVE         398.23   Estacionar el vehículo en zonas prohibidas o rigidas señalizadas o sin las señales de seguridad reglamentarias en caso de emergencia.
+- 835830G    GRANDE      21/05/2023      2044      GRAVE         374.91   Estacionar frente a la entrada o salida de garajes, estacionamientos públicos o en las salidas de salas, espectáculos en funcionamiento.
+- 131278P    PEQUEÃ‘O     23/10/2024      2073      GRAVE         385.41   Adelantar o sobrepasar a la bicicleta u otros ciclos o al vmp, incumpliendo la obligación de efectuar dicha maniobra por el carril de la izquierda.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      3           1158.55
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   3           1158.55
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 6
+REPRESENTANTE LEGAL: Escalante Rojas Ines Adria     DNI: 86718074
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 368136G    GRANDE      06/12/2023      1007      MUY GRAVE    1150.20   Participar en competencias de velocidad en eventos no autorizados.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      0              0.00
+FALTAS MUY GRAVES :      1           1150.20
+----------------------------------------------------------------------
+TOTAL:                   1           1150.20
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 7
+REPRESENTANTE LEGAL: Cueva Fuentes Cinthia Delia     DNI: 12270502
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 250663G    GRANDE      05/02/2025      2073      GRAVE         385.41   Adelantar o sobrepasar a la bicicleta u otros ciclos o al vmp, incumpliendo la obligación de efectuar dicha maniobra por el carril de la izquierda.
+- 246429P    PEQUEÃ‘O     10/07/2023      2064      GRAVE         371.48   Incumplir con devolver las placas de exhibición, rotativa o transitoria dentro de los plazos establecidos.
+- 855340G    GRANDE      01/12/2024      1048      MUY GRAVE     544.44   Efectuar maniobras y O acciones generando daños materiales a la infraestructura o garitas de pago de peaje
+- 266362G    GRANDE      28/12/2023      1037      MUY GRAVE     628.38   Voltear en u sobre la misma calzada, en las curvas, puentes, pasos a desnivel, vías expresas, túneles, cima de cuesta, cruce ferroviario a nivel.
+- 991678G    GRANDE      24/06/2024      1010      MUY GRAVE     588.93   Abastecer de combustible un vehículo del servicio de transporte público de pasajeros con personas a bordo del vehículo.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            756.89
+FALTAS MUY GRAVES :      3           1761.75
+----------------------------------------------------------------------
+TOTAL:                   5           2518.64
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 8
+REPRESENTANTE LEGAL: Zavaleta Coronado Felicita Eloisa     DNI: 48528209
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 262654G    GRANDE      09/06/2024      2025      GRAVE         433.04   Conducir un vehículo con el motor en punto neutro o apagado.
+- 402859G    GRANDE      28/03/2023      2015      GRAVE         398.94   No utilizar las luces intermitentes de emergencia de un vehículo cuando se detiene por razones de fuerza mayor u obstaculizando el tránsito.
+- 958240G    GRANDE      08/05/2024      2021      GRAVE         404.64   Conducir un vehículo que no cuenta con las luces o dispositivos retrorreflectivos previstos en los reglamentos pertinentes
+- 400314G    GRANDE      29/11/2023      2059      GRAVE         396.39   No respetar las señales que rigen el tránsito, cuyo incumplimiento no se encuentre tipificado en otra infracción.
+- 156716P    PEQUEÃ‘O     18/08/2023      1046      MUY GRAVE     658.70   Obstruir la ciclovía
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      4           1633.01
+FALTAS MUY GRAVES :      1            658.70
+----------------------------------------------------------------------
+TOTAL:                   5           2291.71
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 9
+REPRESENTANTE LEGAL: Prado Vera Juan     DNI: 88167677
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 264957G    GRANDE      13/08/2023      1032      MUY GRAVE     592.92   Deteriorar intencionalmente, adulterar, destruir o sustraer las placas de exhibición, rotativa o transitoria .
+- 366914M    MEDIANO     12/09/2024      1019      MUY GRAVE     523.54   Conducir vehículos sin cumplir con las restricciones que consigna la licencia de conducir.
+- 325333G    GRANDE      26/08/2024      2031      GRAVE         365.30   Circular transportando personas en la parte exterior de la carrocería o permitir que sobresalga parte del cuerpo de personas.
+- 435175M    MEDIANO     26/04/2023      1039      MUY GRAVE     540.32   Conducir y ocasionar un accidente de tránsito con daños personales inobservando las normas de tránsito dispuestas en el presente reglamento.
+- 665969P    PEQUEÃ‘O     26/07/2023      1032      MUY GRAVE     592.92   Deteriorar intencionalmente, adulterar, destruir o sustraer las placas de exhibición, rotativa o transitoria .
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            365.30
+FALTAS MUY GRAVES :      4           2249.70
+----------------------------------------------------------------------
+TOTAL:                   5           2615.00
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 10
+REPRESENTANTE LEGAL: Zarate Perez Alexander     DNI: 12858682
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 207572M    MEDIANO     21/03/2024      2052      GRAVE         423.87   Estacionar en los terminales o estaciones de ruta, fuera de los estacionamientos externos determinados por la autoridad competente.
+- 520337G    GRANDE      23/10/2024      3002      LEVE          250.32   Estacionar un vehículo en zonas de parqueo destinadas a vehículos que transportan a personas con discapacidad o conducidos por éstos.
+- 137958M    MEDIANO     05/08/2024      2047      GRAVE         359.93   Estacionar a menos de veinte (20) metros de un cruce ferroviario a nivel.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            250.32
+FALTAS GRAVES     :      2            783.80
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   3           1034.12
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 11
+REPRESENTANTE LEGAL: Lozada Forzani Delia     DNI: 75348522
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 938356G    GRANDE      26/03/2025      2016      GRAVE         414.10   Conducir un vehículo por una vía en la cual no está permitida la circulación o sobre mangueras contra incendios
+- 113951G    GRANDE      25/03/2025      2069      GRAVE         359.96   Detener el vehiculo sobre la demarcación en el pavimento de la señal no bloquear cruce
+- 310575P    PEQUEÃ‘O     10/01/2025      1041      MUY GRAVE     617.43   Conducir y ocasionar un accidente de tránsito con lesiones graves o muerte inobservando las normas de tránsito dispuestas en el presente reglamento.
+- 841644G    GRANDE      02/03/2024      2014      GRAVE         399.25   Tener la puerta, capot o maletera del vehículo abierta, cuando el vehículo está en marcha.
+- 744786G    GRANDE      25/10/2024      2040      GRAVE         352.29   Transitar lentamente por el carril de la izquierda, causando congestión o riesgo o rápidamente por el carril de la derecha.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      4           1525.60
+FALTAS MUY GRAVES :      1            617.43
+----------------------------------------------------------------------
+TOTAL:                   5           2143.03
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 12
+REPRESENTANTE LEGAL: Morales Pasquel Karin Maribel     DNI: 87495937
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 329867G    GRANDE      14/12/2023      2072      GRAVE         389.95   Utilizar un vehículo que tenga instalados los dispositivos electrónicos permitidos obstaculizando la visibilidad del conductor.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            389.95
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   1            389.95
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 13
+REPRESENTANTE LEGAL: Justino Martinez Enrique     DNI: 81485316
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 710594G    GRANDE      25/10/2023      1004      MUY GRAVE    4337.78   Conducir vehículos estando la licencia de conducir retenida, suspendida o estando inhabilitado para obtener licencia de conducir.
+- 486917P    PEQUEÃ‘O     21/06/2024      2010      GRAVE         411.19   Incumplir las disposiciones sobre el uso de las vías de tránsito rápido y O de acceso restringido.
+- 774204M    MEDIANO     10/02/2023      1012      MUY GRAVE     631.29   No detenerse al aproximarse a un vehículo de transporte escolar debidamente identificado que está recogiendo o dejando escolares.
+- 156830G    GRANDE      26/11/2023      2059      GRAVE         396.39   No respetar las señales que rigen el tránsito, cuyo incumplimiento no se encuentre tipificado en otra infracción.
+- 500707M    MEDIANO     30/08/2024      3005      LEVE          200.49   Arrojar, depositar o abandonar objetos o sustancias en la vía pública que dificulten la circulación.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            200.49
+FALTAS GRAVES     :      2            807.58
+FALTAS MUY GRAVES :      2           4969.07
+----------------------------------------------------------------------
+TOTAL:                   5           5977.14
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 14
+REPRESENTANTE LEGAL: Cerna Cerna Cinthia     DNI: 81799482
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 359944M    MEDIANO     10/06/2023      1046      MUY GRAVE     658.70   Obstruir la ciclovía
+- 635752G    GRANDE      09/11/2023      2042      GRAVE         398.23   Estacionar el vehículo en zonas prohibidas o rigidas señalizadas o sin las señales de seguridad reglamentarias en caso de emergencia.
+- 592689G    GRANDE      26/07/2023      1018      MUY GRAVE     606.11   Desobedecer las indicaciones sobre el tránsito que ordene el efectivo de la policía nacional del perú asignado al control del tránsito.
+- 605765G    GRANDE      28/01/2025      1047      MUY GRAVE     520.07   Realizar la circulación por rutas que no forman parte de caminos, vías urbanas o del sistema nacional de carreteras, evadiendo el pago del peaje
+- 561874M    MEDIANO     30/03/2024      2067      GRAVE         429.89   No ceder el paso a otros vehículos que tienen preferencia.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            828.12
+FALTAS MUY GRAVES :      3           1784.88
+----------------------------------------------------------------------
+TOTAL:                   5           2613.00
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 15
+REPRESENTANTE LEGAL: Rodriguez Moreno Blanca Ofelia     DNI: 13219606
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 312270M    MEDIANO     06/05/2023      3007      LEVE          190.27   Hacer uso de bocinas de descarga de aire comprimido en el ámbito urbano.
+- 201291P    PEQUEÃ‘O     05/06/2023      3007      LEVE          190.27   Hacer uso de bocinas de descarga de aire comprimido en el ámbito urbano.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      2            380.54
+FALTAS GRAVES     :      0              0.00
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   2            380.54
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 16
+REPRESENTANTE LEGAL: Fuentes Gamarra Hugo     DNI: 73818744
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 251666P    PEQUEÃ‘O     05/03/2023      3001      LEVE          214.55   Dejar mal estacionado el vehículo en lugares permitidos.
+- 938342G    GRANDE      19/06/2023      1046      MUY GRAVE     658.70   Obstruir la ciclovía
+- 393114G    GRANDE      10/02/2023      2005      GRAVE         414.66   No mantener una distancia suficiente, razonable y prudente, de acuerdo al tipo de vehículo y la vía por la que se conduce.
+- 662512G    GRANDE      08/05/2023      1043      MUY GRAVE    6436.95   Circular, interrumpir y O impedir el tránsito, en situaciones de desastre natural o emergencia.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            214.55
+FALTAS GRAVES     :      1            414.66
+FALTAS MUY GRAVES :      2           7095.65
+----------------------------------------------------------------------
+TOTAL:                   4           7724.86
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 17
+REPRESENTANTE LEGAL: Vizcardo Sinche Maribel     DNI: 85501710
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 532434P    PEQUEÃ‘O     10/06/2023      2016      GRAVE         414.10   Conducir un vehículo por una vía en la cual no está permitida la circulación o sobre mangueras contra incendios
+- 651665M    MEDIANO     05/08/2024      2053      GRAVE         379.79   Estacionar un vehículo automotor por la noche en lugares donde, por la falta de alumbrado público, se impide su visibilidad.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            793.89
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   2            793.89
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 18
+REPRESENTANTE LEGAL: Lee Serrano Rosario     DNI: 12443643
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 483214M    MEDIANO     31/08/2023      2053      GRAVE         379.79   Estacionar un vehículo automotor por la noche en lugares donde, por la falta de alumbrado público, se impide su visibilidad.
+- 235315P    PEQUEÃ‘O     26/03/2025      1012      MUY GRAVE     631.29   No detenerse al aproximarse a un vehículo de transporte escolar debidamente identificado que está recogiendo o dejando escolares.
+- 421807M    MEDIANO     22/04/2024      1001      MUY GRAVE    4791.53   Conducir con presencia de alcohol en la sangre o bajo los efectos de estupefacientes y que haya participado en un accidente de tránsito.
+- 926575G    GRANDE      08/05/2023      2070      GRAVE         387.82   Circular por las vías públicas terrestres donde se encuentran instaladas garitas de peaje, sin pagar el monto del peaje.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            767.61
+FALTAS MUY GRAVES :      2           5422.82
+----------------------------------------------------------------------
+TOTAL:                   4           6190.43
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 19
+REPRESENTANTE LEGAL: Sedano Retamoso Elia Yolanda     DNI: 82870470
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 516487P    PEQUEÃ‘O     08/07/2024      1039      MUY GRAVE     540.32   Conducir y ocasionar un accidente de tránsito con daños personales inobservando las normas de tránsito dispuestas en el presente reglamento.
+- 478603P    PEQUEÃ‘O     25/03/2025      1045      MUY GRAVE     546.13   No respetar el derecho preferente de paso del De la ciclista o del  De la conductor A del vmp
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      0              0.00
+FALTAS MUY GRAVES :      2           1086.45
+----------------------------------------------------------------------
+TOTAL:                   2           1086.45
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 20
+REPRESENTANTE LEGAL: Ramirez Astete Karina Estefania     DNI: 48450395
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 328654G    GRANDE      26/02/2023      2064      GRAVE         371.48   Incumplir con devolver las placas de exhibición, rotativa o transitoria dentro de los plazos establecidos.
+- 692666P    PEQUEÃ‘O     19/02/2023      1034      MUY GRAVE     652.49   Utilizar las placas de exhibición, rotativa o transitoria en vehículos a los que no se encuentren asignadas.
+- 559672P    PEQUEÃ‘O     06/01/2024      1002      MUY GRAVE    2310.06   Conducir con presencia de alcohol en la sangre, narcóticos y O alucinógenos por negarse al mismo.
+- 317350M    MEDIANO     21/04/2024      2001      GRAVE         368.08   Adelantar o sobrepasar en forma indebida a otro vehículo
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            739.56
+FALTAS MUY GRAVES :      2           2962.55
+----------------------------------------------------------------------
+TOTAL:                   4           3702.11
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 21
+REPRESENTANTE LEGAL: Tokeshi Guevara Jaime     DNI: 79641328
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 734120G    GRANDE      16/02/2023      2014      GRAVE         399.25   Tener la puerta, capot o maletera del vehículo abierta, cuando el vehículo está en marcha.
+- 512863M    MEDIANO     27/10/2023      1036      MUY GRAVE     640.08   Circular produciendo ruidos que superen los límites máximos permisibles.
+- 437799G    GRANDE      18/10/2024      2023      GRAVE         436.77   Conducir un vehículo cuando llueve, llovizne o garúe, sin tener operativo el sistema de limpiaparabrisas.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            836.02
+FALTAS MUY GRAVES :      1            640.08
+----------------------------------------------------------------------
+TOTAL:                   3           1476.10
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 22
+REPRESENTANTE LEGAL: Rios Durand Carlos Edilberto     DNI: 89314225
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 760721G    GRANDE      07/03/2025      2064      GRAVE         371.48   Incumplir con devolver las placas de exhibición, rotativa o transitoria dentro de los plazos establecidos.
+- 152838P    PEQUEÃ‘O     18/10/2023      1001      MUY GRAVE    4791.53   Conducir con presencia de alcohol en la sangre o bajo los efectos de estupefacientes y que haya participado en un accidente de tránsito.
+- 256432G    GRANDE      01/03/2025      2032      GRAVE         361.87   Circular en las vias publicas urbanas por la noche sin tener encendido el sistema de luces reglamentarias.
+- 288737M    MEDIANO     05/05/2024      2052      GRAVE         423.87   Estacionar en los terminales o estaciones de ruta, fuera de los estacionamientos externos determinados por la autoridad competente.
+- 355270P    PEQUEÃ‘O     19/07/2023      1041      MUY GRAVE     617.43   Conducir y ocasionar un accidente de tránsito con lesiones graves o muerte inobservando las normas de tránsito dispuestas en el presente reglamento.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      3           1157.22
+FALTAS MUY GRAVES :      2           5408.96
+----------------------------------------------------------------------
+TOTAL:                   5           6566.18
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 23
+REPRESENTANTE LEGAL: Moscoso Laura Janet Valentina     DNI: 86429854
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 374384G    GRANDE      23/10/2023      2028      GRAVE         404.47   Conducir un vehículo cuya carga o pasajeros obstruya la visibilidad de los espejos laterales.
+- 580968M    MEDIANO     10/11/2024      2003      GRAVE         410.24   Detener el vehículo bruscamente sin motivo.
+- 510956M    MEDIANO     11/07/2024      2067      GRAVE         429.89   No ceder el paso a otros vehículos que tienen preferencia.
+- 360947M    MEDIANO     09/04/2025      1013      MUY GRAVE     650.26   Conducir un vehículo con neumático(s), cuya banda de rodadura presente desgaste inferior al establecido en el reglamento nacional de vehículos.
+- 364899P    PEQUEÃ‘O     12/09/2023      1011      MUY GRAVE     567.15   Conducir vehículos sin parachoque.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      3           1244.60
+FALTAS MUY GRAVES :      2           1217.41
+----------------------------------------------------------------------
+TOTAL:                   5           2462.01
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 24
+REPRESENTANTE LEGAL: Rivero Coronado Hector Alonso Jose     DNI: 84186239
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 872544G    GRANDE      22/06/2024      2009      GRAVE         368.89   Retroceder, salvo casos indispensables para mantener libre la circulación, para incorporarse a ella o para estacionar el vehículo.
+- 582282P    PEQUEÃ‘O     28/07/2023      3005      LEVE          200.49   Arrojar, depositar o abandonar objetos o sustancias en la vía pública que dificulten la circulación.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            200.49
+FALTAS GRAVES     :      1            368.89
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   2            569.38
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 25
+REPRESENTANTE LEGAL: Norabuena Moya Hector     DNI: 80457845
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 874915G    GRANDE      20/07/2023      2064      GRAVE         371.48   Incumplir con devolver las placas de exhibición, rotativa o transitoria dentro de los plazos establecidos.
+- 616581G    GRANDE      26/02/2025      1012      MUY GRAVE     631.29   No detenerse al aproximarse a un vehículo de transporte escolar debidamente identificado que está recogiendo o dejando escolares.
+- 410582G    GRANDE      20/12/2024      2072      GRAVE         389.95   Utilizar un vehículo que tenga instalados los dispositivos electrónicos permitidos obstaculizando la visibilidad del conductor.
+- 912415M    MEDIANO     19/01/2025      1015      MUY GRAVE     570.44   Circular produciendo contaminación en un índice superior a los límites máximos permisibles de emisión de gases contaminantes.
+- 670603P    PEQUEÃ‘O     01/10/2024      1004      MUY GRAVE    4337.78   Conducir vehículos estando la licencia de conducir retenida, suspendida o estando inhabilitado para obtener licencia de conducir.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            761.43
+FALTAS MUY GRAVES :      3           5539.51
+----------------------------------------------------------------------
+TOTAL:                   5           6300.94
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 26
+REPRESENTANTE LEGAL: Iparraguirre Perez Nicolas     DNI: 90467829
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 844240M    MEDIANO     04/06/2024      2043      GRAVE         424.99   Estacionar o detener el vehículo sobre la línea demarcatoria de intersección, dentro de éstas o en el crucero peatonal (paso peatonal)
+- 189507G    GRANDE      20/03/2025      1016      MUY GRAVE     663.26   Circular en sentido contrario al tránsito autorizado
+- 985495P    PEQUEÃ‘O     11/11/2024      1042      MUY GRAVE     602.86   Conducir un vehiculo con la licencia de conducir vencida
+- 863768P    PEQUEÃ‘O     24/06/2023      1027      MUY GRAVE     646.55   Circular sin placas de rodaje o sin el permiso correspondiente
+- 600343G    GRANDE      16/07/2024      1017      MUY GRAVE     556.26   Cruzar una intersección o girar, estando el semáforo con luz roja y no existiendo la indicación en contrario
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            424.99
+FALTAS MUY GRAVES :      4           2468.93
+----------------------------------------------------------------------
+TOTAL:                   5           2893.92
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 27
+REPRESENTANTE LEGAL: Pinto Rojas Juvenal Francisco     DNI: 88854166
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 257722M    MEDIANO     07/04/2024      1031      MUY GRAVE     567.23   Conducir un vehículo sin contar con la póliza del seguro obligatorio de accidentes de tránsito.
+- 324421P    PEQUEÃ‘O     26/05/2024      2001      GRAVE         368.08   Adelantar o sobrepasar en forma indebida a otro vehículo
+- 568563G    GRANDE      27/01/2024      1047      MUY GRAVE     520.07   Realizar la circulación por rutas que no forman parte de caminos, vías urbanas o del sistema nacional de carreteras, evadiendo el pago del peaje
+- 131555P    PEQUEÃ‘O     05/12/2024      1046      MUY GRAVE     658.70   Obstruir la ciclovía
+- 411657G    GRANDE      05/12/2024      1009      MUY GRAVE    1316.30   Conducir un vehículo con cualquiera de sus sistemas de dirección, frenos, suspensión o luces en mal estado, previa inspección técnica vehicular.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            368.08
+FALTAS MUY GRAVES :      4           3062.30
+----------------------------------------------------------------------
+TOTAL:                   5           3430.38
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 28
+REPRESENTANTE LEGAL: Jauregui Del Castillo Victor Ricardo     DNI: 77367073
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 542724G    GRANDE      10/04/2023      2066      GRAVE         429.96   Conducir un vehículo cuyas características registrables o condiciones técnicas han sido modificadas, atentando contra la seguridad de los usuarios.
+- 974598G    GRANDE      16/06/2023      2002      GRAVE         354.90   No hacer señales ni tomar las precauciones para girar, voltear en u, pasar de un carril de la calzada a otro o detener el vehículo
+- 655400M    MEDIANO     19/06/2023      1034      MUY GRAVE     652.49   Utilizar las placas de exhibición, rotativa o transitoria en vehículos a los que no se encuentren asignadas.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            784.86
+FALTAS MUY GRAVES :      1            652.49
+----------------------------------------------------------------------
+TOTAL:                   3           1437.35
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 29
+REPRESENTANTE LEGAL: Arca Sanchez Magali Beatriz Iris     DNI: 73567806
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 426388P    PEQUEÃ‘O     30/03/2024      2048      GRAVE         365.76   Estacionar en zonas no permitidas por la autoridad competente, a menos de diez (10) metros de un cruce peatonal o de un paradero de buses.
+- 993637M    MEDIANO     14/10/2024      1026      MUY GRAVE     637.20   Estacionar o detener el vehículo en el carril de circulación, en carreteras o caminos donde existe berma lateral.
+- 458550G    GRANDE      16/09/2023      1026      MUY GRAVE     637.20   Estacionar o detener el vehículo en el carril de circulación, en carreteras o caminos donde existe berma lateral.
+- 666407M    MEDIANO     09/03/2023      2028      GRAVE         404.47   Conducir un vehículo cuya carga o pasajeros obstruya la visibilidad de los espejos laterales.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            770.23
+FALTAS MUY GRAVES :      2           1274.40
+----------------------------------------------------------------------
+TOTAL:                   4           2044.63
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 30
+REPRESENTANTE LEGAL: Arca Larriega Lucero Yliana     DNI: 89941095
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 860616P    PEQUEÃ‘O     20/06/2024      2022      GRAVE         356.97   Conducir un vehículo sin espejos retrovisores.
+- 138788G    GRANDE      30/07/2024      1048      MUY GRAVE     544.44   Efectuar maniobras y O acciones generando daños materiales a la infraestructura o garitas de pago de peaje
+- 708335M    MEDIANO     10/09/2024      1039      MUY GRAVE     540.32   Conducir y ocasionar un accidente de tránsito con daños personales inobservando las normas de tránsito dispuestas en el presente reglamento.
+- 226459G    GRANDE      21/12/2023      2059      GRAVE         396.39   No respetar las señales que rigen el tránsito, cuyo incumplimiento no se encuentre tipificado en otra infracción.
+- 474593P    PEQUEÃ‘O     01/01/2024      1005      MUY GRAVE    2651.23   Conducir un vehículo con licencia de conducir cuya clase o categoría no corresponde al vehículo que conduce.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            753.36
+FALTAS MUY GRAVES :      3           3735.99
+----------------------------------------------------------------------
+TOTAL:                   5           4489.35
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 31
+REPRESENTANTE LEGAL: Suarez Chang Gloria     DNI: 87282766
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 440802M    MEDIANO     21/10/2023      2065      GRAVE         378.40   Utilizar señales audibles o visibles iguales o similares a las que utilizan los vehículos de emergencia o vehículos oficiales.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            378.40
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   1            378.40
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 32
+REPRESENTANTE LEGAL: Avila Martel Jaime Manuel     DNI: 73972114
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 657925G    GRANDE      25/09/2024      2052      GRAVE         423.87   Estacionar en los terminales o estaciones de ruta, fuera de los estacionamientos externos determinados por la autoridad competente.
+- 862577M    MEDIANO     30/08/2024      2018      GRAVE         398.27   Conducir un vehículo sin que ambas manos estén sobre el volante de dirección, excepto cuando es necesario realizar los cambios de velocidad.
+- 255643P    PEQUEÃ‘O     14/07/2024      1003      MUY GRAVE    2439.00   Conducir un vehículo automotor sin tener licencia de conducir o permiso provisional.
+- 646319M    MEDIANO     22/08/2024      1008      MUY GRAVE    1159.22   Permitir a un menor de edad la conducción de un vehículo automotor, sin autorización o permiso provisional.
+- 655864M    MEDIANO     07/04/2024      1021      MUY GRAVE    1183.65   Superar el límite máximo de velocidad establecido establecido en más de 10 km H hasta en 30 km H adicionales
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            822.14
+FALTAS MUY GRAVES :      3           4781.87
+----------------------------------------------------------------------
+TOTAL:                   5           5604.01
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 33
+REPRESENTANTE LEGAL: Fuentes Escalante Patricia Elizabeth     DNI: 79766395
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 195859P    PEQUEÃ‘O     23/03/2023      1037      MUY GRAVE     628.38   Voltear en u sobre la misma calzada, en las curvas, puentes, pasos a desnivel, vías expresas, túneles, cima de cuesta, cruce ferroviario a nivel.
+- 485562G    GRANDE      24/02/2023      2046      GRAVE         388.85   Estacionar a menos de tres (3) metros de las puertas de establecimientos educacionales, teatros, iglesias y hoteles.
+- 763950G    GRANDE      27/04/2023      1025      MUY GRAVE     631.82   Detenerse para cargar o descargar mercancías en la calzada y O en los lugares que interrumpan la circulación.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            388.85
+FALTAS MUY GRAVES :      2           1260.20
+----------------------------------------------------------------------
+TOTAL:                   3           1649.05
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 34
+REPRESENTANTE LEGAL: Tang Moscoso Johana     DNI: 74325123
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 770513P    PEQUEÃ‘O     11/09/2023      2020      GRAVE         355.07   Conducir un vehículo que carezca de vidrios de seguridado que se encuentren deteriorado o con objetos que impidan la visibilidad del conductor.
+- 968856G    GRANDE      29/07/2023      1021      MUY GRAVE    1183.65   Superar el límite máximo de velocidad establecido establecido en más de 10 km H hasta en 30 km H adicionales
+- 348264M    MEDIANO     27/12/2023      2013      GRAVE         378.46   Conducir un vehículo con mayor número de personas al número de asientos señalado en la tarjeta de identificación vehicular
+- 214608G    GRANDE      13/05/2023      2035      GRAVE         379.06   Circular transportando cargas que sobrepasen las dimensiones de la carrocería o que se encuentren ubicadas fuera de la misma.
+- 905539P    PEQUEÃ‘O     13/04/2024      2002      GRAVE         354.90   No hacer señales ni tomar las precauciones para girar, voltear en u, pasar de un carril de la calzada a otro o detener el vehículo
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      4           1467.49
+FALTAS MUY GRAVES :      1           1183.65
+----------------------------------------------------------------------
+TOTAL:                   5           2651.14
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 35
+REPRESENTANTE LEGAL: Quiroga Hernandez Silvana Zkenia Maria     DNI: 13628871
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 203441P    PEQUEÃ‘O     27/12/2023      1023      MUY GRAVE     988.72   No respetar el límite mínimo de velocidad establecido
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      0              0.00
+FALTAS MUY GRAVES :      1            988.72
+----------------------------------------------------------------------
+TOTAL:                   1            988.72
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 36
+REPRESENTANTE LEGAL: Mejia Rodriguez Ines Valentina     DNI: 75945248
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 721932G    GRANDE      26/07/2024      1047      MUY GRAVE     520.07   Realizar la circulación por rutas que no forman parte de caminos, vías urbanas o del sistema nacional de carreteras, evadiendo el pago del peaje
+- 450448G    GRANDE      15/02/2025      1005      MUY GRAVE    2651.23   Conducir un vehículo con licencia de conducir cuya clase o categoría no corresponde al vehículo que conduce.
+- 939759P    PEQUEÃ‘O     13/11/2024      2048      GRAVE         365.76   Estacionar en zonas no permitidas por la autoridad competente, a menos de diez (10) metros de un cruce peatonal o de un paradero de buses.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      1            365.76
+FALTAS MUY GRAVES :      2           3171.30
+----------------------------------------------------------------------
+TOTAL:                   3           3537.06
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 37
+REPRESENTANTE LEGAL: Minaya Berrocal Heli     DNI: 80310768
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 267848M    MEDIANO     11/07/2023      3001      LEVE          214.55   Dejar mal estacionado el vehículo en lugares permitidos.
+- 477146M    MEDIANO     28/01/2023      2063      GRAVE         431.38   No llevar las placas de rodaje en el lugar que corresponde.
+- 893799G    GRANDE      27/08/2024      2048      GRAVE         365.76   Estacionar en zonas no permitidas por la autoridad competente, a menos de diez (10) metros de un cruce peatonal o de un paradero de buses.
+- 752478G    GRANDE      09/09/2023      2053      GRAVE         379.79   Estacionar un vehículo automotor por la noche en lugares donde, por la falta de alumbrado público, se impide su visibilidad.
+- 982853M    MEDIANO     01/05/2024      2051      GRAVE         418.99   Estacionar un vehículo a una distancia menor a un metro de la parte delantera o posterior de otro ya estacionado.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            214.55
+FALTAS GRAVES     :      4           1595.92
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   5           1810.47
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 38
+REPRESENTANTE LEGAL: Saavedra Gonzales Wilmer     DNI: 47528229
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 466711M    MEDIANO     31/08/2023      3001      LEVE          214.55   Dejar mal estacionado el vehículo en lugares permitidos.
+- 325365P    PEQUEÃ‘O     01/02/2025      1036      MUY GRAVE     640.08   Circular produciendo ruidos que superen los límites máximos permisibles.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      1            214.55
+FALTAS GRAVES     :      0              0.00
+FALTAS MUY GRAVES :      1            640.08
+----------------------------------------------------------------------
+TOTAL:                   2            854.63
+======================================================================================================================================================================================================================================
+COMPAÃ‘IA No. 39
+REPRESENTANTE LEGAL: Egusquiza Berrocal Doris Nancy     DNI: 82031355
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VEHICULOS INFRACCIONADOS:
+  PLACAS      TIPO          FECHA     INFRACCION    GRAVEDAD     MULTA    DESCRIPCION
+- 386900P    PEQUEÃ‘O     10/02/2023      2019      GRAVE         425.21   Conducir un vehículo usando algún dispositivo móvil u objeto portátil que implique dejar de conducir con ambas manos sobre el volante de dirección.
+- 599949M    MEDIANO     29/05/2023      2065      GRAVE         378.40   Utilizar señales audibles o visibles iguales o similares a las que utilizan los vehículos de emergencia o vehículos oficiales.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                      CANTIDAD   MONTO PAGADO
+FALTAS LEVES      :      0              0.00
+FALTAS GRAVES     :      2            803.61
+FALTAS MUY GRAVES :      0              0.00
+----------------------------------------------------------------------
+TOTAL:                   2            803.61
+======================================================================================================================================================================================================================================
+
+//////////////////////////////////////////////////
+//COMPAÃ‘IA CON MAYOR PAGO DE INFRACCIONES:      //
+//DNI:                      73818744            //
+//TOTAL PAGADO:              7724.86            //
+//////////////////////////////////////////////////
